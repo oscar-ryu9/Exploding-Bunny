@@ -1,0 +1,13 @@
+# CAD Exchanger 3.24.0 (cadexchanger.com)
+# Material Count: 1
+
+newmtl Material_1
+Ns 0.000000
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Textures/4109737e-d5de-4306-9b21-9c1c4ff68958.png
+map_Ks Textures/5265e312-4c30-4fe2-aa1c-102e031d60bc.png
+map_Ke Textures/26994581-67e0-4b27-a475-67f82e70f0a5.png
